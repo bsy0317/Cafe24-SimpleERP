@@ -6,7 +6,11 @@ Cafe24에서 발생된 주문 건을 자동으로 공급처에 전송하는 프�
 - 공급사 등록, 검색, 수정, 삭제
 - 발주내역 확인
 
+## Screenshots
+
+![Screenshot](src/pic1.PNG)  
+![Screenshot](src/pic2.PNG)
+
 ## Support
 
 For support, email talk@kakao.one
-
